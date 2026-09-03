@@ -4,7 +4,7 @@ import path from 'path';
 
 // ======================== CONFIGURATION ========================
 // Set to null to download ALL districts, a single district code like 'S1902', or an array like ['S1904', 'S1911']
-const TARGET_DISTRICT = ["S1904", "S1911", "S1921"]; 
+const TARGET_DISTRICT = ["S1917"]; 
 
 // Specify districts to skip for specific dates
 // Format: { 'YYYY-MM-DD': ['DISTRICT_CODE_OR_NAME', ...] }
