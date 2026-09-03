@@ -3,8 +3,8 @@ import fs from 'fs';
 import path from 'path';
 
 // ======================== CONFIGURATION ========================
-// Set to null to download ALL districts, or specify a district code like 'S1902'
-const TARGET_DISTRICT = null; 
+// Set to null to download ALL districts, a single district code like 'S1902', or an array like ['S1904', 'S1911']
+const TARGET_DISTRICT = ["S1904", "S1911", "S1921"]; 
 
 // Specify districts to skip for specific dates
 // Format: { 'YYYY-MM-DD': ['DISTRICT_CODE_OR_NAME', ...] }
@@ -79,9 +79,15 @@ test('download form 10 reports organized by district, assembly, and date', async
     }
   }
 
-  // Filter if a specific district is targeted
+  // Filter if a specific district or list of districts is targeted
   if (TARGET_DISTRICT) {
-    districtList = districtList.filter(d => d.value === TARGET_DISTRICT);
+    if (Array.isArray(TARGET_DISTRICT)) {
+      if (TARGET_DISTRICT.length > 0) {
+        districtList = districtList.filter(d => TARGET_DISTRICT.includes(d.value) || TARGET_DISTRICT.includes(d.label));
+      }
+    } else {
+      districtList = districtList.filter(d => d.value === TARGET_DISTRICT || d.label === TARGET_DISTRICT);
+    }
   }
 
   console.log(`\n======================================================`);
