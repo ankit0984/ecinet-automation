@@ -1,0 +1,29 @@
+{
+  "name": "ecinet_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test tests/test.spec.js --headed --project=chromium",
+    "test:date": "playwright test tests/dateWiseDownload.test.spec.js --headed --project=chromium",
+    "test:debug": "playwright test tests/test.spec.js --debug",
+    "test:ui": "playwright test --ui",
+    "test:codegen": "playwright codegen"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "11.24.0",
+      "onFail": "download"  
+    }
+  },
+  "packageManager": "pnpm@11.24.0",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.1"
+  }
+}
