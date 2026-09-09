@@ -7,3 +7,18 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 
+kpi/
+scripts/
+
+# OS files
+.DS_Store
+**/.DS_Store
+
+# Large model weights and checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+checkpoints/
+

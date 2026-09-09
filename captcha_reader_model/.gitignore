@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.DS_Store
+.kilo/
+cleanup/
+dataset/
+
+# Virtual environments
+.venv
+
+# Checkpoints & Large Model Weights
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
