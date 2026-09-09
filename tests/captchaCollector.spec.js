@@ -40,7 +40,7 @@ const FORM_TYPE = 'form09';
 
 
 // Dates configuration
-const START_DATE = '2026-09-05';
+const START_DATE = '2026-09-07';
 const END_DATE = null; // null uses maximum allowed date from calendar
 
 // Destination directories
