@@ -1,0 +1,871 @@
+{
+  "stateCode": "S19",
+  "extractedAt": "2026-09-08T07:47:58.369Z",
+  "totalDistricts": 23,
+  "totalConstituencies": 117,
+  "districts": [
+    {
+      "districtCode": "S1902",
+      "districtName": "Amritsar",
+      "totalConstituencies": 11,
+      "constituencies": [
+        {
+          "acNumber": "11",
+          "acCode": "11",
+          "acName": "Ajnala",
+          "label": "11 - Ajnala"
+        },
+        {
+          "acNumber": "12",
+          "acCode": "12",
+          "acName": "Raja Sansi",
+          "label": "12 - Raja Sansi"
+        },
+        {
+          "acNumber": "13",
+          "acCode": "13",
+          "acName": "Majitha",
+          "label": "13 - Majitha"
+        },
+        {
+          "acNumber": "14",
+          "acCode": "14",
+          "acName": "Jandiala",
+          "label": "14 - Jandiala"
+        },
+        {
+          "acNumber": "15",
+          "acCode": "15",
+          "acName": "Amritsar North",
+          "label": "15 - Amritsar North"
+        },
+        {
+          "acNumber": "16",
+          "acCode": "16",
+          "acName": "Amritsar West",
+          "label": "16 - Amritsar West"
+        },
+        {
+          "acNumber": "17",
+          "acCode": "17",
+          "acName": "Amritsar Central",
+          "label": "17 - Amritsar Central"
+        },
+        {
+          "acNumber": "18",
+          "acCode": "18",
+          "acName": "Amritsar East",
+          "label": "18 - Amritsar East"
+        },
+        {
+          "acNumber": "19",
+          "acCode": "19",
+          "acName": "Amritsar South",
+          "label": "19 - Amritsar South"
+        },
+        {
+          "acNumber": "20",
+          "acCode": "20",
+          "acName": "Attari",
+          "label": "20 - Attari"
+        },
+        {
+          "acNumber": "25",
+          "acCode": "25",
+          "acName": "Baba Bakala",
+          "label": "25 - Baba Bakala"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1919",
+      "districtName": "Barnala",
+      "totalConstituencies": 3,
+      "constituencies": [
+        {
+          "acNumber": "102",
+          "acCode": "102",
+          "acName": "Bhadaur",
+          "label": "102 - Bhadaur"
+        },
+        {
+          "acNumber": "103",
+          "acCode": "103",
+          "acName": "Barnala",
+          "label": "103 - Barnala"
+        },
+        {
+          "acNumber": "104",
+          "acCode": "104",
+          "acName": "Mehal Kalan",
+          "label": "104 - Mehal Kalan"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1916",
+      "districtName": "Bathinda",
+      "totalConstituencies": 6,
+      "constituencies": [
+        {
+          "acNumber": "90",
+          "acCode": "90",
+          "acName": "Rampura Phul",
+          "label": "90 - Rampura Phul"
+        },
+        {
+          "acNumber": "91",
+          "acCode": "91",
+          "acName": "Bhucho Mandi",
+          "label": "91 - Bhucho Mandi"
+        },
+        {
+          "acNumber": "92",
+          "acCode": "92",
+          "acName": "Bathinda Urban",
+          "label": "92 - Bathinda Urban"
+        },
+        {
+          "acNumber": "93",
+          "acCode": "93",
+          "acName": "Bathinda Rural",
+          "label": "93 - Bathinda Rural"
+        },
+        {
+          "acNumber": "94",
+          "acCode": "94",
+          "acName": "Talwandi Sabo",
+          "label": "94 - Talwandi Sabo"
+        },
+        {
+          "acNumber": "95",
+          "acCode": "95",
+          "acName": "Maur",
+          "label": "95 - Maur"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1915",
+      "districtName": "Faridkot",
+      "totalConstituencies": 3,
+      "constituencies": [
+        {
+          "acNumber": "87",
+          "acCode": "87",
+          "acName": "Faridkot",
+          "label": "87 - Faridkot"
+        },
+        {
+          "acNumber": "88",
+          "acCode": "88",
+          "acName": "Kotkapura",
+          "label": "88 - Kotkapura"
+        },
+        {
+          "acNumber": "89",
+          "acCode": "89",
+          "acName": "Jaitu",
+          "label": "89 - Jaitu"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1910",
+      "districtName": "Fatehgarh Sahib",
+      "totalConstituencies": 3,
+      "constituencies": [
+        {
+          "acNumber": "54",
+          "acCode": "54",
+          "acName": "Bassi Pathana",
+          "label": "54 - Bassi Pathana"
+        },
+        {
+          "acNumber": "55",
+          "acCode": "55",
+          "acName": "Fatehgarh Sahib",
+          "label": "55 - Fatehgarh Sahib"
+        },
+        {
+          "acNumber": "56",
+          "acCode": "56",
+          "acName": "Amloh",
+          "label": "56 - Amloh"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1923",
+      "districtName": "Fazilka",
+      "totalConstituencies": 4,
+      "constituencies": [
+        {
+          "acNumber": "79",
+          "acCode": "79",
+          "acName": "Jalalabad",
+          "label": "79 - Jalalabad"
+        },
+        {
+          "acNumber": "80",
+          "acCode": "80",
+          "acName": "Fazilka",
+          "label": "80 - Fazilka"
+        },
+        {
+          "acNumber": "81",
+          "acCode": "81",
+          "acName": "Abohar",
+          "label": "81 - Abohar"
+        },
+        {
+          "acNumber": "82",
+          "acCode": "82",
+          "acName": "Balluana",
+          "label": "82 - Balluana"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1913",
+      "districtName": "Ferozepur",
+      "totalConstituencies": 4,
+      "constituencies": [
+        {
+          "acNumber": "75",
+          "acCode": "75",
+          "acName": "Zira",
+          "label": "75 - Zira"
+        },
+        {
+          "acNumber": "76",
+          "acCode": "76",
+          "acName": "Firozpur City",
+          "label": "76 - Firozpur City"
+        },
+        {
+          "acNumber": "77",
+          "acCode": "77",
+          "acName": "Firozpur Rural",
+          "label": "77 - Firozpur Rural"
+        },
+        {
+          "acNumber": "78",
+          "acCode": "78",
+          "acName": "Guru Har Sahai",
+          "label": "78 - Guru Har Sahai"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1901",
+      "districtName": "Gurdaspur",
+      "totalConstituencies": 7,
+      "constituencies": [
+        {
+          "acNumber": "4",
+          "acCode": "4",
+          "acName": "Gurdaspur",
+          "label": "4 - Gurdaspur"
+        },
+        {
+          "acNumber": "5",
+          "acCode": "5",
+          "acName": "Dina Nagar",
+          "label": "5 - Dina Nagar"
+        },
+        {
+          "acNumber": "6",
+          "acCode": "6",
+          "acName": "Qadian",
+          "label": "6 - Qadian"
+        },
+        {
+          "acNumber": "7",
+          "acCode": "7",
+          "acName": "Batala",
+          "label": "7 - Batala"
+        },
+        {
+          "acNumber": "8",
+          "acCode": "8",
+          "acName": "Sri Hargobindpur",
+          "label": "8 - Sri Hargobindpur"
+        },
+        {
+          "acNumber": "9",
+          "acCode": "9",
+          "acName": "Fatehgarh Churian",
+          "label": "9 - Fatehgarh Churian"
+        },
+        {
+          "acNumber": "10",
+          "acCode": "10",
+          "acName": "Dera Baba Nanak",
+          "label": "10 - Dera Baba Nanak"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1906",
+      "districtName": "Hoshiarpur",
+      "totalConstituencies": 7,
+      "constituencies": [
+        {
+          "acNumber": "39",
+          "acCode": "39",
+          "acName": "Mukerian",
+          "label": "39 - Mukerian"
+        },
+        {
+          "acNumber": "40",
+          "acCode": "40",
+          "acName": "Dasuya",
+          "label": "40 - Dasuya"
+        },
+        {
+          "acNumber": "41",
+          "acCode": "41",
+          "acName": "Urmar",
+          "label": "41 - Urmar"
+        },
+        {
+          "acNumber": "42",
+          "acCode": "42",
+          "acName": "Sham Chaurasi",
+          "label": "42 - Sham Chaurasi"
+        },
+        {
+          "acNumber": "43",
+          "acCode": "43",
+          "acName": "Hoshiarpur",
+          "label": "43 - Hoshiarpur"
+        },
+        {
+          "acNumber": "44",
+          "acCode": "44",
+          "acName": "Chabbewal",
+          "label": "44 - Chabbewal"
+        },
+        {
+          "acNumber": "45",
+          "acCode": "45",
+          "acName": "Garhshankar",
+          "label": "45 - Garhshankar"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1905",
+      "districtName": "Jalandhar",
+      "totalConstituencies": 9,
+      "constituencies": [
+        {
+          "acNumber": "30",
+          "acCode": "30",
+          "acName": "Phillaur",
+          "label": "30 - Phillaur"
+        },
+        {
+          "acNumber": "31",
+          "acCode": "31",
+          "acName": "Nakodar",
+          "label": "31 - Nakodar"
+        },
+        {
+          "acNumber": "32",
+          "acCode": "32",
+          "acName": "Shahkot",
+          "label": "32 - Shahkot"
+        },
+        {
+          "acNumber": "33",
+          "acCode": "33",
+          "acName": "Kartarpur",
+          "label": "33 - Kartarpur"
+        },
+        {
+          "acNumber": "34",
+          "acCode": "34",
+          "acName": "Jalandhar West",
+          "label": "34 - Jalandhar West"
+        },
+        {
+          "acNumber": "35",
+          "acCode": "35",
+          "acName": "Jalandhar Central",
+          "label": "35 - Jalandhar Central"
+        },
+        {
+          "acNumber": "36",
+          "acCode": "36",
+          "acName": "Jalandhar North",
+          "label": "36 - Jalandhar North"
+        },
+        {
+          "acNumber": "37",
+          "acCode": "37",
+          "acName": "Jalandhar Cantt",
+          "label": "37 - Jalandhar Cantt"
+        },
+        {
+          "acNumber": "38",
+          "acCode": "38",
+          "acName": "Adampur",
+          "label": "38 - Adampur"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1904",
+      "districtName": "Kapurthala",
+      "totalConstituencies": 4,
+      "constituencies": [
+        {
+          "acNumber": "26",
+          "acCode": "26",
+          "acName": "Bholath",
+          "label": "26 - Bholath"
+        },
+        {
+          "acNumber": "27",
+          "acCode": "27",
+          "acName": "Kapurthala",
+          "label": "27 - Kapurthala"
+        },
+        {
+          "acNumber": "28",
+          "acCode": "28",
+          "acName": "Sultanpur Lodhi",
+          "label": "28 - Sultanpur Lodhi"
+        },
+        {
+          "acNumber": "29",
+          "acCode": "29",
+          "acName": "Phagwara",
+          "label": "29 - Phagwara"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1911",
+      "districtName": "Ludhiana",
+      "totalConstituencies": 14,
+      "constituencies": [
+        {
+          "acNumber": "57",
+          "acCode": "57",
+          "acName": "Khanna",
+          "label": "57 - Khanna"
+        },
+        {
+          "acNumber": "58",
+          "acCode": "58",
+          "acName": "Samrala",
+          "label": "58 - Samrala"
+        },
+        {
+          "acNumber": "59",
+          "acCode": "59",
+          "acName": "Sahnewal",
+          "label": "59 - Sahnewal"
+        },
+        {
+          "acNumber": "60",
+          "acCode": "60",
+          "acName": "Ludhiana East",
+          "label": "60 - Ludhiana East"
+        },
+        {
+          "acNumber": "61",
+          "acCode": "61",
+          "acName": "Ludhiana South",
+          "label": "61 - Ludhiana South"
+        },
+        {
+          "acNumber": "62",
+          "acCode": "62",
+          "acName": "Atam Nagar",
+          "label": "62 - Atam Nagar"
+        },
+        {
+          "acNumber": "63",
+          "acCode": "63",
+          "acName": "Ludhiana Central",
+          "label": "63 - Ludhiana Central"
+        },
+        {
+          "acNumber": "64",
+          "acCode": "64",
+          "acName": "Ludhiana West",
+          "label": "64 - Ludhiana West"
+        },
+        {
+          "acNumber": "65",
+          "acCode": "65",
+          "acName": "Ludhiana North",
+          "label": "65 - Ludhiana North"
+        },
+        {
+          "acNumber": "66",
+          "acCode": "66",
+          "acName": "Gill",
+          "label": "66 - Gill"
+        },
+        {
+          "acNumber": "67",
+          "acCode": "67",
+          "acName": "Payal",
+          "label": "67 - Payal"
+        },
+        {
+          "acNumber": "68",
+          "acCode": "68",
+          "acName": "Dakha",
+          "label": "68 - Dakha"
+        },
+        {
+          "acNumber": "69",
+          "acCode": "69",
+          "acName": "Raikot",
+          "label": "69 - Raikot"
+        },
+        {
+          "acNumber": "70",
+          "acCode": "70",
+          "acName": "Jagraon",
+          "label": "70 - Jagraon"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1921",
+      "districtName": "Malerkotla",
+      "totalConstituencies": 2,
+      "constituencies": [
+        {
+          "acNumber": "105",
+          "acCode": "105",
+          "acName": "Malerkotla",
+          "label": "105 - Malerkotla"
+        },
+        {
+          "acNumber": "106",
+          "acCode": "106",
+          "acName": "Amargarh",
+          "label": "106 - Amargarh"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1917",
+      "districtName": "Mansa",
+      "totalConstituencies": 3,
+      "constituencies": [
+        {
+          "acNumber": "96",
+          "acCode": "96",
+          "acName": "Mansa",
+          "label": "96 - Mansa"
+        },
+        {
+          "acNumber": "97",
+          "acCode": "97",
+          "acName": "Sardulgarh",
+          "label": "97 - Sardulgarh"
+        },
+        {
+          "acNumber": "98",
+          "acCode": "98",
+          "acName": "Budhlada",
+          "label": "98 - Budhlada"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1912",
+      "districtName": "Moga",
+      "totalConstituencies": 4,
+      "constituencies": [
+        {
+          "acNumber": "71",
+          "acCode": "71",
+          "acName": "Nihal Singh Wala",
+          "label": "71 - Nihal Singh Wala"
+        },
+        {
+          "acNumber": "72",
+          "acCode": "72",
+          "acName": "Bagha Purana",
+          "label": "72 - Bagha Purana"
+        },
+        {
+          "acNumber": "73",
+          "acCode": "73",
+          "acName": "Moga",
+          "label": "73 - Moga"
+        },
+        {
+          "acNumber": "74",
+          "acCode": "74",
+          "acName": "Dharamkot",
+          "label": "74 - Dharamkot"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1922",
+      "districtName": "Pathankot",
+      "totalConstituencies": 3,
+      "constituencies": [
+        {
+          "acNumber": "1",
+          "acCode": "1",
+          "acName": "Sujanpur",
+          "label": "1 - Sujanpur"
+        },
+        {
+          "acNumber": "2",
+          "acCode": "2",
+          "acName": "Bhoa",
+          "label": "2 - Bhoa"
+        },
+        {
+          "acNumber": "3",
+          "acCode": "3",
+          "acName": "Pathankot",
+          "label": "3 - Pathankot"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1920",
+      "districtName": "Patiala",
+      "totalConstituencies": 8,
+      "constituencies": [
+        {
+          "acNumber": "109",
+          "acCode": "109",
+          "acName": "Nabha",
+          "label": "109 - Nabha"
+        },
+        {
+          "acNumber": "110",
+          "acCode": "110",
+          "acName": "Patiala Rural",
+          "label": "110 - Patiala Rural"
+        },
+        {
+          "acNumber": "111",
+          "acCode": "111",
+          "acName": "Rajpura",
+          "label": "111 - Rajpura"
+        },
+        {
+          "acNumber": "113",
+          "acCode": "113",
+          "acName": "Ghanaur",
+          "label": "113 - Ghanaur"
+        },
+        {
+          "acNumber": "114",
+          "acCode": "114",
+          "acName": "Sanour",
+          "label": "114 - Sanour"
+        },
+        {
+          "acNumber": "115",
+          "acCode": "115",
+          "acName": "Patiala",
+          "label": "115 - Patiala"
+        },
+        {
+          "acNumber": "116",
+          "acCode": "116",
+          "acName": "Samana",
+          "label": "116 - Samana"
+        },
+        {
+          "acNumber": "117",
+          "acCode": "117",
+          "acName": "Shutrana",
+          "label": "117 - Shutrana"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1908",
+      "districtName": "Rupnagar",
+      "totalConstituencies": 3,
+      "constituencies": [
+        {
+          "acNumber": "49",
+          "acCode": "49",
+          "acName": "Anandpur Sahib",
+          "label": "49 - Anandpur Sahib"
+        },
+        {
+          "acNumber": "50",
+          "acCode": "50",
+          "acName": "Rupnagar",
+          "label": "50 - Rupnagar"
+        },
+        {
+          "acNumber": "51",
+          "acCode": "51",
+          "acName": "Chamkaur Sahib",
+          "label": "51 - Chamkaur Sahib"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1909",
+      "districtName": "Sahibzada Ajit Singh Nagar",
+      "totalConstituencies": 3,
+      "constituencies": [
+        {
+          "acNumber": "52",
+          "acCode": "52",
+          "acName": "Kharar",
+          "label": "52 - Kharar"
+        },
+        {
+          "acNumber": "53",
+          "acCode": "53",
+          "acName": "S.A.S. Nagar",
+          "label": "53 - S.A.S. Nagar"
+        },
+        {
+          "acNumber": "112",
+          "acCode": "112",
+          "acName": "Dera Bassi",
+          "label": "112 - Dera Bassi"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1918",
+      "districtName": "Sangrur",
+      "totalConstituencies": 5,
+      "constituencies": [
+        {
+          "acNumber": "99",
+          "acCode": "99",
+          "acName": "Lehra",
+          "label": "99 - Lehra"
+        },
+        {
+          "acNumber": "100",
+          "acCode": "100",
+          "acName": "Dirba",
+          "label": "100 - Dirba"
+        },
+        {
+          "acNumber": "101",
+          "acCode": "101",
+          "acName": "Sunam",
+          "label": "101 - Sunam"
+        },
+        {
+          "acNumber": "107",
+          "acCode": "107",
+          "acName": "Dhuri",
+          "label": "107 - Dhuri"
+        },
+        {
+          "acNumber": "108",
+          "acCode": "108",
+          "acName": "Sangrur",
+          "label": "108 - Sangrur"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1907",
+      "districtName": "Shahid Bhagat Singh Nagar",
+      "totalConstituencies": 3,
+      "constituencies": [
+        {
+          "acNumber": "46",
+          "acCode": "46",
+          "acName": "Banga",
+          "label": "46 - Banga"
+        },
+        {
+          "acNumber": "47",
+          "acCode": "47",
+          "acName": "Nawan Shahr",
+          "label": "47 - Nawan Shahr"
+        },
+        {
+          "acNumber": "48",
+          "acCode": "48",
+          "acName": "Balachaur",
+          "label": "48 - Balachaur"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1914",
+      "districtName": "Sri Muktsar Sahib",
+      "totalConstituencies": 4,
+      "constituencies": [
+        {
+          "acNumber": "83",
+          "acCode": "83",
+          "acName": "Lambi",
+          "label": "83 - Lambi"
+        },
+        {
+          "acNumber": "84",
+          "acCode": "84",
+          "acName": "Gidderbaha",
+          "label": "84 - Gidderbaha"
+        },
+        {
+          "acNumber": "85",
+          "acCode": "85",
+          "acName": "Malout",
+          "label": "85 - Malout"
+        },
+        {
+          "acNumber": "86",
+          "acCode": "86",
+          "acName": "Muktsar",
+          "label": "86 - Muktsar"
+        }
+      ]
+    },
+    {
+      "districtCode": "S1903",
+      "districtName": "Tarn Taran",
+      "totalConstituencies": 4,
+      "constituencies": [
+        {
+          "acNumber": "21",
+          "acCode": "21",
+          "acName": "Tarn Taran",
+          "label": "21 - Tarn Taran"
+        },
+        {
+          "acNumber": "22",
+          "acCode": "22",
+          "acName": "Khem Karan",
+          "label": "22 - Khem Karan"
+        },
+        {
+          "acNumber": "23",
+          "acCode": "23",
+          "acName": "Patti",
+          "label": "23 - Patti"
+        },
+        {
+          "acNumber": "24",
+          "acCode": "24",
+          "acName": "Khadoor Sahib",
+          "label": "24 - Khadoor Sahib"
+        }
+      ]
+    }
+  ]
+}
