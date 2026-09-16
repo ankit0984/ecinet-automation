@@ -21,4 +21,7 @@ scripts/
 *.pth
 *.onnx
 checkpoints/
-
+.vscode/
+/tests/.DS_Store
+/script.sh
+.kilo/
