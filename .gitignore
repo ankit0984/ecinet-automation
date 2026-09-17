@@ -25,3 +25,7 @@ checkpoints/
 /tests/.DS_Store
 /script.sh
 .kilo/
+data/captcha_labels.json
+data/captcha_data.json
+data/captcha_images
+data/temp_captcha
