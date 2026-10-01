@@ -1,0 +1,31 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+kpi/
+scripts/
+
+# OS files
+.DS_Store
+**/.DS_Store
+
+# Large model weights and checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+checkpoints/
+.vscode/
+tests/.DS_Store
+/script.sh
+.kilo/
+data/captcha_labels.json
+data/captcha_data.json
+data/captcha_images
+data/temp_captcha
